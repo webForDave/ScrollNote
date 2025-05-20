@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="scrollnote.png" alt="ScrollNote logo" width="500"/>
+  <img src="assets/scrollnote.png" alt="ScrollNote logo" width="500"/>
 </p>
 
 <h1 align="center">ScrollNote</h1>
@@ -23,7 +23,7 @@ ScrollNote is a simple tool to help you write logs daily — stored as `.txt` fi
 ## Screenshot
 
 <p align="center">
-  <img src="run_scroll.png" alt="ScrollNote logo" width="500"/>
+  <img src="assets/run_scroll.png" alt="ScrollNote logo" width="500"/>
 </p>
 
 ## Installation
