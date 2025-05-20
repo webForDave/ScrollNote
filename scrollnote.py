@@ -23,5 +23,3 @@ class ScrollNote():
 
     def __str__(self):
         return f"{self.content}, {self.date}, {self.filepath}"
-
-print(ScrollNote("This is the replace version of today's log").load()) 
