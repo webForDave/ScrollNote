@@ -4,7 +4,7 @@
 
 <h1 align="center">ScrollNote</h1>
 
-📝 A minimalist, terminal-based daily logging tool.  
+A minimalist, terminal-based daily logging tool.  
 One note per day. Saved locally. Yours forever.
 
 ---
@@ -20,7 +20,7 @@ ScrollNote is a simple tool to help you write logs daily — stored as `.txt` fi
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 <p align="center">
   <img src="run_scroll.png" alt="ScrollNote logo" width="500"/>
